@@ -186,7 +186,7 @@ btnLenguaEN.addEventListener('click', e =>{
 	
 	/* PRESENTACIÓN - INGLÉS */
 	PREh2.innerHTML = "Presentation"
-	PREp.innerHTML = 'Hi! My name is Felipe Rodriguez Carle. I am a 22 years old student of BSc Computer Science (UNLP), currently living in Argentina. Also, I am doing the Front End Developer Career at <a href="https://educacionit.com" target="_blank">EducaciónIT</a>'
+	PREp.innerHTML = 'Hi! My name is Felipe Rodriguez Carle. I am a 23 years old student of BSc Computer Science (UNLP), currently living in Argentina. Also, I am doing the Front End Developer Career at <a href="https://educacionit.com" target="_blank">EducaciónIT</a>'
 	PREleng.innerHTML = '<i class="fa fa-code"></i> <br> Languages and technologies:'
 	PREcv.innerHTML = 'Download CV'
 
