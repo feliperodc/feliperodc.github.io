@@ -142,7 +142,7 @@ btnLenguaES.addEventListener('click', () =>{
 
 	/* PRESENTACIÓN - ESPAÑOL */
 	PREh2.innerHTML = "Presentación"
-	PREp.innerHTML = "Hola! soy Felipe Rodriguez Carle, tengo 22 años y soy un estudiante de Licenciatura en Sistemas (UNLP). <br> También he completado la carrera Front End Developer en EducaciónIT con más de 200 horas de programación, diseño y desafíos web."
+	PREp.innerHTML = 'Hola! soy Felipe Rodriguez Carle, tengo 23 años y soy un estudiante de Licenciatura en Sistemas (UNLP). <br> También estoy realizando la carrera Front End Developer en <a href="https://educacionit.com" target="_blank">EducaciónIT</a>.'
 	PREleng.innerHTML = '<i class="fa fa-code"></i> <br> Lenguajes y tecnologías:'
 	PREcv.innerHTML = 'Descargar CV'
 	
@@ -195,7 +195,7 @@ btnLenguaEN.addEventListener('click', e =>{
 	
 	/* PRESENTACIÓN - INGLÉS */
 	PREh2.innerHTML = "Presentation"
-	PREp.innerHTML = "Hi! My name is Felipe Rodriguez Carle. I am a 22 years old student of Bachelor in Computer Science (UNLP), currently living in Argentina. I have also achieved the career of Front End Developer in EducaciónIT with more than 200 hours of programming, design, and web challenges."
+	PREp.innerHTML = 'Hi! My name is Felipe Rodriguez Carle. I am a 22 years old student of BSc Computer Science (UNLP), currently living in Argentina. Also, I am doing the Front End Developer Career at <a href="https://educacionit.com" target="_blank">EducaciónIT</a>'
 	PREleng.innerHTML = '<i class="fa fa-code"></i> <br> Languages and technologies:'
 	PREcv.innerHTML = 'Download CV'
 
