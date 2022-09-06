@@ -121,11 +121,6 @@ let LGspan = d.querySelector('article.postCuatro > header > span')
 let LGp = d.querySelector('article.postCuatro > p')
 let LGh5 = d.querySelector('article.postCuatro > h5')
 
-
-let FOOh2 = d.querySelector('#footer > section > form > h2')
-let FOOlabel1 = d.querySelector('#footer > section > form > .fields > .field > label.labelName')
-let FOOlabel3 = d.querySelector('#footer > section > form > .fields > .field > label.labelMessage')
-let FOOval = d.querySelector('ul.actions > li > input')
 let FOOh3a = d.querySelector('#footer > section.split.contact > section.alt > h3.fooUbi')
 let FOOh3b = d.querySelector('#footer > section.split.contact > section > h3.fooTel')
 let FOOh3c = d.querySelector('#footer > section.split.contact > section > h3.fooRedes')
@@ -172,10 +167,6 @@ btnLenguaES.addEventListener('click', () =>{
 	LGh5.innerHTML = "CARACTERÍSTICAS:"
 
 	/* FOOTER - ESPAÑOL */
-	FOOh2.innerHTML = "Contacto"
-	FOOlabel1.innerHTML = "Nombre"
-	FOOlabel3.innerHTML = "Mensaje"
-	FOOval.value = "Enviar Mensaje";
 	FOOh3a.innerHTML = 'Ubicación'
 	FOOh3b.innerHTML = 'Teléfono'
 	FOOh3c.innerHTML = 'Redes'
@@ -225,10 +216,6 @@ btnLenguaEN.addEventListener('click', e =>{
 	LGh5.innerHTML = "FEATURES:"
 
 	/* FOOTER - INGLÉS */
-	FOOh2.innerHTML = "Contact"
-	FOOlabel1.innerHTML = "Name"
-	FOOlabel3.innerHTML = "Message"
-	FOOval.value = "Send message";
 	FOOh3a.innerHTML = 'Location'
 	FOOh3b.innerHTML = 'Phone'
 	FOOh3c.innerHTML = 'Social'
