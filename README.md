@@ -17,7 +17,7 @@ Esta página posee diseño responsivo y personalizado (modo claro y oscuro), con
 {
     "Technologies used:" "HTML5",
                          "CSS3",
-                         "JS",
+                         "JS"
 }
 ```
 ## License
