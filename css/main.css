@@ -82,6 +82,10 @@ article.darkmode, section.darkmode, main.darkmode, label.darkmode,
 	color: #fff;
 }
 
+#navPanel .links a{
+	color: #212121;
+}
+
 /*----------------------------------------------------*/
 /*----------------------------------------------------*/
 
@@ -262,7 +266,14 @@ main p a{
 
 header a{
 	text-decoration: none;
-	
+}
+
+#main > .posts > article:nth-child(2){
+	border: 1px solid #eee;
+}
+
+#main > .posts > article:nth-child(3){
+	border: 1px solid #eee;
 }
 
 main.darkmode, article, section{
