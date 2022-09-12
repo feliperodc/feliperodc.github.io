@@ -109,11 +109,11 @@ let ARQp = d.querySelector('article.postDos > p')
 let ARQh5 = d.querySelector('article.postDos > h5')
 let ARQliC = d.querySelector('article.postUno > ul > li:nth-child(3)')
 
-/* El Noticiero */
-let ENspan = d.querySelector('article.postTres > header > span')
-let ENp = d.querySelector('article.postTres > p')
-let ENh5 = d.querySelector('article.postTres > h5')
-let ENliA = d.querySelector('article.postTres > ul > li:first-child')
+/* MQuotes */
+let MQspan = d.querySelector('article.postTres > header > span')
+let MQp = d.querySelector('article.postTres > p')
+let MQh5 = d.querySelector('article.postTres > h5')
+let MQliA = d.querySelector('article.postTres > ul > li:first-child')
 
 
 /* Le Gout */
@@ -156,10 +156,10 @@ btnLenguaES.addEventListener('click', () =>{
 	ARQliC.innerHTML = "Modo Claro / Oscuro."
 
 	/* El Noticiero - ESPAÑOL */
-	ENspan.innerHTML = "Proyecto 3"
-	ENp.innerHTML = "El Noticiero simula ser un portal de noticias en idioma inglés que trabaja con la API externa de NewsAPI. Esta página realiza los pedidos de noticias mediante requests con fetch en JavaScript. Posee barra de búsqueda para que se pueda buscar cualquier tema de noticias deseado."
-	ENh5.innerHTML = "CARACTERÍSTICAS:"
-	ENliA.innerHTML = "Trabaja con NewsAPI."
+	MQspan.innerHTML = "Proyecto 3"
+	MQp.innerHTML = "MQuotes es una página web que muestra frases motivacionales dichas por peronas famosas. Consume la API de type-fit mediante Fetch y JSON."
+	MQh5.innerHTML = "CARACTERÍSTICAS:"
+	MQliA.innerHTML = "Trabaja con la API de type-fit."
 
 	/* Le Gout - ESPAÑOL */
 	LGspan.innerHTML = "Proyecto 4"
@@ -204,11 +204,11 @@ btnLenguaEN.addEventListener('click', e =>{
 	ARQh5.innerHTML= "FEATURES:"
 	ARQliC.innerHTML = "Dark / Light Mode."
 
-	/* El Noticiero - INGLÉS */
-	ENspan.innerHTML = "Project 3"
-	ENp.innerHTML = "El Noticiero is a news website that works with the API of NewsAPI. This page makes requests using fetch with JavaScript. It has a search-bar to search any topic of news you want."
-	ENh5.innerHTML = "FEATURES:"
-	ENliA.innerHTML = "Works with NewsAPI."
+	/* MQuotes - INGLÉS */
+	MQspan.innerHTML = "Project 3"
+	MQp.innerHTML = "MQuotes is a website that shows you motivational quotes said by famous people. It consumes the API of type-fit through fetch and JSON responses."
+	MQh5.innerHTML = "FEATURES:"
+	MQliA.innerHTML = "Works with type-fit API's."
 
 	/* Le Gout - INGLÉS */
 	LGspan.innerHTML = "Project 4"
