@@ -276,6 +276,14 @@ header a{
 	border: 1px solid #eee;
 }
 
+.postDos{
+	border-right: none !important;
+}
+
+.postTres{
+	border-bottom: none !important;
+}
+
 main.darkmode, article, section{
 	transition: all .4s !important;
 }
