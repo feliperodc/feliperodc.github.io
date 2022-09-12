@@ -268,25 +268,19 @@ header a{
 	text-decoration: none;
 }
 
-#main > .posts > article:nth-child(2){
-	border: 1px solid #eee;
-}
-
-#main > .posts > article:nth-child(3){
-	border: 1px solid #eee;
+.postUno{
+	border-right: 1px solid #eee;
+	border-bottom: 1px solid #eee;
 }
 
 .postDos{
-	border-right: none !important;
+	border-bottom: 1px solid #eee;
 }
 
 .postTres{
-	border-bottom: none !important;
+	border-right: 1px solid #eee;
 }
 
-.postCuatro{
-	border: none !important;
-}
 
 main.darkmode, article, section{
 	transition: all .4s !important;
@@ -4279,10 +4273,6 @@ input, select, textarea {
 			}
 
 			#main > .posts > article {
-				border-color: #eeeeee;
-				border-left-width: 2px;
-				border-style: solid;
-				border-top-width: 2px;
 				text-align: center;
 			}
 
