@@ -285,7 +285,7 @@ header a{
 }
 
 .postCuatro{
-	border: none;
+	border: none !important;
 }
 
 main.darkmode, article, section{
