@@ -157,7 +157,7 @@ btnLenguaES.addEventListener('click', () =>{
 
 	/* El Noticiero - ESPAÑOL */
 	MQspan.innerHTML = "Proyecto 3"
-	MQp.innerHTML = "MQuotes es una página web que muestra frases motivacionales dichas por peronas famosas. Consume la API de type-fit mediante Fetch y JSON."
+	MQp.innerHTML = "MQuotes es una página web que muestra frases motivacionales dichas por personas famosas. Consume la API de type-fit mediante Fetch y JSON."
 	MQh5.innerHTML = "CARACTERÍSTICAS:"
 	MQliA.innerHTML = "Trabaja con la API de type-fit."
 

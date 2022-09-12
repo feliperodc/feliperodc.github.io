@@ -284,6 +284,10 @@ header a{
 	border-bottom: none !important;
 }
 
+.postCuatro{
+	border: none;
+}
+
 main.darkmode, article, section{
 	transition: all .4s !important;
 }
