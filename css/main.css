@@ -1787,6 +1787,9 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 736px) {
+			.postUno, .postTres{
+				border-right: none !important;
+			}
 
 			.row {
 				display: flex;
