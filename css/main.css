@@ -4209,7 +4209,11 @@ input, select, textarea {
 				margin: 0 0 2rem 0;
 			}
 
-			#main > .post.featured {
+			/*#main > .post.featured {
+				text-align: center;
+			}*/
+
+			#main > .post.featured > h2{
 				text-align: center;
 			}
 
