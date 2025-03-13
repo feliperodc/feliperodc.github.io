@@ -186,7 +186,7 @@ btnLenguaEN.addEventListener('click', e =>{
 	
 	/* PRESENTACIÓN - INGLÉS */
 	PREh2.innerHTML = "Presentation"
-	PREp.innerHTML = 'Hi! I am Felipe Rodriguez Carle, a 24 years old boy who works as an Analyst 4 in IAM for PwC. Within Identity Access Management (IAM) I work with Active Directory (OneAD and EntraID - AzureAD), resolving Incidents and tasks through ServiceNow (SNow). At the same time, I work with technologies such as: CyberARK (PAM), Sailpoint, Splunk and PowerShell. Also, I have FrontEnd knowledge (JS, CSS, HTML, GIT).'
+	PREp.innerHTML = 'Hi! I am Felipe Rodriguez Carle, a 25 years old boy who works as an Analyst 4 in IAM for PwC. Within Identity Access Management (IAM) I work with Active Directory (OneAD and EntraID - AzureAD), resolving Incidents and tasks through ServiceNow (SNow). At the same time, I work with technologies such as: CyberARK (PAM), Sailpoint, Splunk and PowerShell. Also, I have FrontEnd knowledge (JS, CSS, HTML, GIT).'
 	PREleng.innerHTML = '<i class="fa fa-code"></i> <br> Languages and technologies:'
 	PREcv.innerHTML = 'Download CV'
 
