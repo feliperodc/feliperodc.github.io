@@ -137,7 +137,7 @@ btnLenguaES.addEventListener('click', () =>{
 
 	/* PRESENTACIÓN - ESPAÑOL */
 	PREh2.innerHTML = "Presentación"
-	PREp.innerHTML = 'Hola! soy Felipe Rodriguez Carle, tengo 25 años y me desempeño como Analista 4 en IAM para PwC. <br> Dentro de Identity Access Management (IAM) trabajo con Active Directory (OneAD y EntraID - AzureAD), resolviendo Incidentes y tasks mediante ServiceNow (SNow). A su vez, trabajo con tecnologías como: CyberARK (PAM), Sailpoint, Splunk y PowerShell. También poseo conocimientos en FrontEnd (JS, CSS, HTML, GIT).'
+	PREp.innerHTML = 'Hola! soy Felipe Rodriguez Carle, tengo 25 años y me desempeño como Security Delivery Analyst en Accenture. <br> Dentro de Identity Access Management (IAM) trabajo con Active Directory (OneAD y EntraID - AzureAD), resolviendo Incidentes y tasks mediante ServiceNow (SNow). A su vez, trabajo con tecnologías como: CyberARK (PAM), Sailpoint, Splunk y PowerShell. También poseo conocimientos en FrontEnd (JS, CSS, HTML, GIT).'
 	PREleng.innerHTML = '<i class="fa fa-code"></i> <br> Lenguajes y tecnologías:'
 	PREcv.innerHTML = 'Descargar CV'
 	
@@ -186,7 +186,7 @@ btnLenguaEN.addEventListener('click', e =>{
 	
 	/* PRESENTACIÓN - INGLÉS */
 	PREh2.innerHTML = "Presentation"
-	PREp.innerHTML = 'Hi! I am Felipe Rodriguez Carle, a 25 years old boy who works as an Analyst 4 in IAM for PwC. Within Identity Access Management (IAM) I work with Active Directory (OneAD and EntraID - AzureAD), resolving Incidents and tasks through ServiceNow (SNow). At the same time, I work with technologies such as: CyberARK (PAM), Sailpoint, Splunk and PowerShell. Also, I have FrontEnd knowledge (JS, CSS, HTML, GIT).'
+	PREp.innerHTML = 'Hi! I am Felipe Rodriguez Carle, a 25 years old boy who works as a Security Delivery Analyst for Accenture. Within Identity Access Management (IAM) I work with Active Directory (OneAD and EntraID - AzureAD), resolving Incidents and tasks through ServiceNow (SNow). At the same time, I work with technologies such as: CyberARK (PAM), Sailpoint, Splunk and PowerShell. Also, I have FrontEnd knowledge (JS, CSS, HTML, GIT).'
 	PREleng.innerHTML = '<i class="fa fa-code"></i> <br> Languages and technologies:'
 	PREcv.innerHTML = 'Download CV'
 
